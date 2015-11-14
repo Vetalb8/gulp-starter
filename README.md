@@ -1,5 +1,4 @@
 # Gulp-starter
-[![Build Status]()](https://travis-ci.org/Vetalb8/)
 
 Шаблон для быстрого старта верстки.
 
