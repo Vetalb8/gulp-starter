@@ -1,0 +1,10 @@
+# Css
+cssbuild
+# NPM
+node_modules
+# Bower
+app/bower
+#idea
+.idea
+.DS_Store
+dist

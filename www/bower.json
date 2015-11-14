@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "normalize.css": "~3.0.3",
+    "tooltipster": "~3.3.0"
+  }
+}
